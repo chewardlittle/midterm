@@ -1,0 +1,297 @@
+
+
+.header {
+	border-style: solid;
+	border-color: #f08080;
+	border-width: 100px;
+	font-size: 30px;
+	text-decoration-color: #f5fffa;
+	background-color: #f08080;
+	color: #f5fffa;
+}
+
+.nav {
+  padding: 0;
+  text-align: center;
+  background-color: #ad79ba
+}
+.nav li {
+  display: inline;
+  padding-right: 20px;
+
+}
+.nav li:last-child {
+  padding-right: 0;
+}
+
+.nav a {
+	color: #add8e6;
+}
+.header h2 {
+	border-style: solid;
+	border-color: #f08080;
+	border-width: 15px 300px 10px 220px;
+}
+
+.aboutme h1 {
+	background-color: #ffe1ff;
+	padding: auto;
+	font-size: 75px;
+	color: white;
+	border: 10px 10px 10px 10px;
+	text-align: center;
+
+	padding: 10px 10px 10px 10px;
+	
+}
+
+.aboutme {
+	
+	background-image: cover;
+	background-image: url(https://i.ytimg.com/vi/JS7NYKqhrFo/hqdefault.jpg);
+}
+
+.memes h1{
+	
+	font-size: 55px;
+	border-width: 500px;
+	color: #f5fffa;
+	background-color: #ffdab9;
+	text-align: center;
+	
+
+}
+
+.memes ul li {
+
+	text-align: center;
+	background-image: url(https://media1.giphy.com/media/vmBvkH2EQxP44/200_s.gif);
+	background-image: cover;
+}
+
+.crystals h1 {
+	font-size: 55px;
+	text-align: center;
+	color: #f5fffa;
+	background-color: #c6e2ff;
+}
+
+.crystals h2 {
+	font-size: 55px;
+	text-align: center;
+	color: #f5fffa;
+	background-color: #40e0d0;
+}
+
+.crystals h3 {
+	font-size: 55px;
+	text-align: center;
+	color: #f5fffa;
+	background-color: #b4eeb4;
+}
+.crystals h4 {
+	font-size: 55px;
+	text-align: center;
+	color: #f5fffa;
+	background-color: #ad79ba;
+}
+
+.sagan {
+	font-family: Arial;
+	color: white;
+	background-image: url(http://img14.deviantart.net/dd97/i/2013/040/e/c/rainbow_nebula_by_melsalsa-d5ue131.png);
+	background-image: cover;
+}
+.doom h1 {
+	font-size: 55px;
+	text-align: center;
+	color: #f5fffa;
+	background-color: #f1cbff;
+}
+.doom h2 {
+	font-size: 55px;
+	text-align: center;
+	color: #f5fffa;
+	background-color: #ffa5a5;
+}
+.doom h3 {
+	font-size: 55px;
+	text-align: center;;
+	color: #f5fffa;
+	background-color: #e695b3;
+}
+.header {
+	font size: 50px;
+	color: #f5fffa;
+}
+.intro h1 {
+	font-size: 50px;
+	color: #f5fffa;
+	text-align: center;
+	background-color: #826ac3;
+
+}
+.content p {
+	font-size: 30px;
+	color: #f5fffa;
+	text-align: center;
+	background-color: #ccb6d6;
+	border-width: auto;
+}
+
+.reachme h1{
+	font-size: 25px;
+	text-align: center;
+}
+.reachme h2 {
+	font-size: 25px;
+	text-align: center;
+}
+.reachme a {
+	color: #3e9278;
+}
+.reachme {
+	background-image: url(https://s-media-cache-ak0.pinimg.com/236x/72/c7/1b/72c71b5dd9dcff2d5cc8ec11346b082f.jpg);
+	background-image: cover;
+}
+.essaytitle h1{
+	font-size: 75px;
+	background-color: #c7dfa4;
+	color: #f5fffa;
+	text-align: center;
+}
+.essaycontent p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph1 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+
+}
+.paragraph2 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph3 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph4 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph5 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph6 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph7 p {
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph8 p {
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph9 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph10 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph11 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph12 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+.paragraph13 p{
+	text-align: center;
+	background-color: #7c83b1;
+	color: #3e3c30;
+	
+	margin: 20px 5px 20px 5px;
+	font-size: 20px;
+}
+body {
+	background-color: #7c83b1;
+	background-image: 
+}
+.logo img {
+	background-image: url(http://data.whicdn.com/images/127609922/superthumb.jpg);
+	background-image: cover;
+	margin: auto;
+	padding: none;
+	
+
+}
+.imagehead {
+	font-size: 40px;
+	color: #f5fffa;
+	text-align: center;
+}
+.logo p {
+	color: #f5fffa;
+	text-align: center;
+
+}
